@@ -1,0 +1,19 @@
+.wrapper {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.columns {
+    display: flex;
+    gap: 16px;
+}
+
+.grid_goods {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px 24px;
+}
+
+.filters {
+    min-width: 240px;
+}

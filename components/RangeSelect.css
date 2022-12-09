@@ -1,0 +1,14 @@
+.rangeselect {
+    display: flex;
+    gap: 8px;
+}
+
+.rangeselect input {
+    max-width: 100px;
+    border: 1px solid black;
+    background: none;
+    outline: none;
+    padding: 2px 4px;
+    font-size: 20px;
+
+}

@@ -1,0 +1,6 @@
+.multiselect_option {
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+
+}

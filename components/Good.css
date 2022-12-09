@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid black;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card_content {
+    padding: 8px 16px;
+    font-size: 20px;
+
+}
